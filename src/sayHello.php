@@ -8,4 +8,9 @@ class sayHello
     {
         return 'Hello World, Composer!';
     }
+
+    public static function getTime()
+    {
+        return date('d-m-Y');
+    }
 }
