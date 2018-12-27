@@ -2,7 +2,7 @@
   "name": "ptc/package-hello",
   "description": "the first composer package",
   "type": "php",
-  "license": "aaa",
+  "license": "",
   "authors": [
     {
       "name": "cuong",
