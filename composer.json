@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-ptc",
+  "description": "the first composer package",
+  "type": "php",
+  "license": "aaa",
+  "authors": [
+    {
+      "name": "cuong",
+      "email": "phamthecuong52@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ptc\\SayHello\\": "src/"
+    }
+  }
+}
