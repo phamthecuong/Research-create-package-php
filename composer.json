@@ -1,5 +1,5 @@
 {
-  "name": "hello-world-ptc",
+  "name": "simplePackagePTC",
   "description": "the first composer package",
   "type": "php",
   "license": "aaa",
