@@ -13,4 +13,9 @@ class sayHello
     {
         return date('d-m-Y');
     }
+
+    public static function sayGoodBy()
+    {
+        return 'Say good bye';
+    }
 }
