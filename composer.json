@@ -17,5 +17,6 @@
     "psr-4": {
       "ptc\\SayHello\\": "src/"
     }
-  }
+  },
+  "version":"1.0.1"
 }
