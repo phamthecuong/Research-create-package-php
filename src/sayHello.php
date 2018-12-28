@@ -23,4 +23,9 @@ class sayHello
     {
         return 'Say hello';
     }
+
+    public static function goodbye()
+    {
+        return 'good bye';
+    }
 }
