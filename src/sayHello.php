@@ -18,4 +18,9 @@ class sayHello
     {
         return 'Say good bye';
     }
+
+    public static function hello()
+    {
+        return 'Say hello';
+    }
 }
